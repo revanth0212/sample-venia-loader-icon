@@ -1,6 +1,6 @@
 {
   "name": "sample-venia-loader-icon",
-  "version": "3.0.0",
+  "version": "4.0.0",
   "description": "sample-venia-loader-icon React component",
   "main": "lib/index.js",
   "module": "es/index.js",
@@ -10,7 +10,8 @@
     "lib",
     "umd",
     "extensions.json",
-    "src/logo.svg"
+    "src/logo.svg",
+    "src/logos"
   ],
   "scripts": {
     "build": "nwb build-react-component",
